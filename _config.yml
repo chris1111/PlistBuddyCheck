@@ -1,0 +1,5 @@
+title: PlistBuddyCheck
+description: Applications to check plist files in macOS
+github:
+  repository_url: https://github.com/chris1111/PlistBuddyCheck
+remote_theme: chris1111/cayman-dark
