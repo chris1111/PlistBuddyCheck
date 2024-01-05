@@ -3,7 +3,7 @@
 , if the file is corrupt it will not be checked
 - [And the Error will be indicated.](https://github.com/chris1111/PlistBuddyCheck?tab=readme-ov-file#this-is-what-happens-with-a-corrupt-plist-file--)
 - Any .plist file can be checked
-- Also `.pbxproj` `.pbxproj` `.xcsettings` file can be checked
+- Also `.pbxproj` `.pbxproj` `.xcsettings` `.string` `.xcplugindata` `.intentdefinition` file can be checked
   
 ➦ [PlistBuddy](https://www.unix.com/man-page/osx/8/PLISTBUDDY/), ➦ [Xcode - xcworkspace and xcodeproj](https://neurocline.github.io/dev/2016/04/16/xcode-xcworkspace-and-xcodeproj.html)
 
