@@ -23,7 +23,7 @@ Drag Plist file to verify it
 ******************************************************"
 # Set Droping directory and file
 for files in "$@" ;do
-echo "Start of verification: PlistBuddy"
+echo "Start of verification: for ${@##*/}"
 Sleep 1
 osascript -e 'do shell script "afplay './Hero.aiff' &> /dev/null &"'
 
