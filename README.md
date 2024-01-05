@@ -11,3 +11,8 @@ Download ➤ Release [PlistBuddyCheck](https://github.com/chris1111/PlistBuddyCh
 ### Show small Video ⬇︎
 [![Modular Image Creation](https://github.com/chris1111/PlistBuddyCheck/assets/6248794/f2685c95-4a52-4519-9b60-1a1f0cf3110c)](https://youtu.be/DxTVH3DPTpE)
 
+
+### This is what happens with a Corrupt plist file 🚫 ⬇
+![Screenshot error](https://github.com/chris1111/PlistBuddyCheck/assets/6248794/ffd391eb-f322-4ae0-aeca-04c55a68dd1d)
+
+
