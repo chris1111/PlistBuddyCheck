@@ -4,8 +4,9 @@
 - [And the Error will be indicated.](https://github.com/chris1111/PlistBuddyCheck?tab=readme-ov-file#this-is-what-happens-with-a-corrupt-plist-file--)
 - Any .plist file can be checked
 - Also `.pbxproj` `.pbxproj` `.xcsettings` `.string` `.xcplugindata` `.intentdefinition` file can be checked
-  
-➦ [PlistBuddy](https://www.unix.com/man-page/osx/8/PLISTBUDDY/), ➦ [Xcode - xcworkspace and xcodeproj](https://neurocline.github.io/dev/2016/04/16/xcode-xcworkspace-and-xcodeproj.html)
+### The program only reads the file, it never modifies it.
+
+#### See ➦ [PlistBuddy](https://www.unix.com/man-page/osx/8/PLISTBUDDY/), ➦ [Xcode - xcworkspace and xcodeproj](https://neurocline.github.io/dev/2016/04/16/xcode-xcworkspace-and-xcodeproj.html)
 
 Download ➤ Release [PlistBuddyCheck](https://github.com/chris1111/PlistBuddyCheck/releases/tag/V1)
      
